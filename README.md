@@ -11,3 +11,4 @@ Julio5343/Julio5343 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+Bienvenido al portapapeles de Gboard; todo texto que copies se guardará aquí.
